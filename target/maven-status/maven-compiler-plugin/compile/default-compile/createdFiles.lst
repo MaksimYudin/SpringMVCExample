@@ -1,0 +1,7 @@
+ru/yudin/springcourse/models/Person.class
+ru/yudin/springcourse/controllers/PeopleController.class
+ru/yudin/springcourse/controllers/CalculatorController.class
+ru/yudin/springcourse/config/SpringConfig.class
+ru/yudin/springcourse/controllers/FirstController.class
+ru/yudin/springcourse/config/MySpringMVCDispatcherServletInitializer.class
+ru/yudin/springcourse/dao/PersonDAO.class
